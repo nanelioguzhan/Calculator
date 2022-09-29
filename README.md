@@ -1,7 +1,7 @@
+# https://simple-calculator-by-naneli.netlify.app/
+
 # calculator
 ### Pure CSS and Vanilla JS
-
-#### https://simple-calculator-by-naneli.netlify.app/
 
  will be responsive soon
  
